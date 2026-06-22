@@ -1,2 +1,5 @@
-# search-name
-tools osint for wanted people with social and more
+# search-name 🔍
+
+Outil OSINT pour rechercher un pseudo sur 40+ sites (réseaux sociaux, gaming, dev...)
+
+## Installation
